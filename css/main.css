@@ -74,7 +74,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .site-nav .menu-icon { display: none; }
 
-.site-nav .page-link { color: #464646; line-height: 1.35; }
+.site-nav .page-link { color: black; line-height: 1.35; }
 
 .site-nav .page-link:not(:first-child) { margin-left: 20px; }
 
