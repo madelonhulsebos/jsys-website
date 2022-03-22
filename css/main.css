@@ -28,9 +28,9 @@ dd { margin-left: 30px; margin-bottom: 15px; }
 h1, h2, h3, h4, h5, h6 { font-weight: 300; }
 
 /** Links */
-a { color: black; text-decoration: underline dotted #464646; }
+a { color: black; text-decoration: none; }
 
-a:hover { color: #046a12; }
+a:hover { color: #046a12; background-color: #FFFF00; }
 
 /** Highlighting */
 .text-muted { color: #555555; }
@@ -86,6 +86,8 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .site-footer { border-top: 1px solid #bbbbbb; padding: 30px 0; }
 
 .site-footer a { text-decoration: none; }
+
+.site-footer a:hover { background-color: transparent; }
 
 .footer-heading { font-size: 18px; margin-bottom: 15px; }
 
@@ -271,13 +273,13 @@ a:hover { text-decoration: none; }
 
 .site-header { border: none; min-height: 150px; }
 
-.site-title a { /* padding: .5em .75em .25em 1em; background-color:  $brand-color; color:  white; */ color: #058316; /*font-size: 80%;*/ font-weight: 100; margin: auto; line-height: 200px; letter-spacing: .25em; text-transform: uppercase; }
+.site-title a { /* padding: .5em .75em .25em 1em; color:  white; */ background-color: none; color: #058316; /*font-size: 80%;*/ font-weight: 100; margin: auto; line-height: 200px; letter-spacing: .25em; text-transform: uppercase; }
 
-.site-title a:hover { text-decoration: none; /*    color: white;*/ }
+.site-title a:hover { text-decoration: none; background-color: transparent; /*    color: white;*/ }
 
 .site-nav a { font-size: 14px; color: #058316; font-weight: 400; }
 
-.site-nav a:hover { text-decoration: none; color: #058316; }
+.site-nav a:hover { text-decoration: none; color: #058316; background-color: transparent; }
 
 .post-content h2 { font-size: 20px; }
 
