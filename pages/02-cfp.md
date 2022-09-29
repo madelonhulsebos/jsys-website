@@ -180,7 +180,7 @@ JSys submissions for the Solution or Tools/Benchmark category must be accompanie
   within an allowed tolerance such that the main claims of the paper
   are validated.
 
-Some good practices for preparing the artifacts for evaluation can be found in [this document](http://bit.ly/HOWTO-AEC).
+More details on the criteria and some useful references can be found on [the Artifact Evaluation page](/artifact_evaluation/).
 
 Artifact Evaluation is single-blind and private (neither artifacts nor the reviews are made public); this is to allow authors to share access to their hardware or testing facility, if required.
 
