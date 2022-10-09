@@ -56,7 +56,7 @@ members:
 - name: Aastha Mehta
   affiliation: University of British Columbia
   webpage: https://aasthakm.github.io/
-  orcid: 
+  orcid:
   twitter:
   from: 2022
   until: 0
@@ -69,3 +69,10 @@ members:
   from: 2022
   until: 0
 
+- name: Sherif Saad
+  affiliation: University of Windsor
+  webpage: https://www.linkedin.com/in/ebinsaad
+  orcid:
+  twitter:
+  from: 2022
+  until: 0
